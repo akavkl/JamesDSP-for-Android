@@ -1,0 +1,8 @@
+desc: 5.1 downmix
+
+@init
+;
+
+@sample
+spl1 = spl3 + spl1;
+spl0 = spl4 + spl0;
